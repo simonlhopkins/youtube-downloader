@@ -1,0 +1,14 @@
+# Todo
+- ~~Thumbnail images~~
+- Convert playlist
+- Convert list of videos
+- advanced export settings
+- prettier ui
+- preview in browser
+- loading bar
+    - loading animations
+- one command to launch front end and back end
+- error message as popup
+- compilation video (export all videos together)
+- iphone support to save to videos
+- history of videos downloaded
